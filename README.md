@@ -14,7 +14,7 @@ Ketika anda sudah memasang userbot ini, berarti anda sudah siap dengan resikonya
 
 <h3 align="center">Klik Tombol di Bawah ini untuk Deploy Lewat Bot</h3>
 
-<p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=amkxbm9ubHkvUFlST0RBUkstVVNFUkJPVCBtYXN0ZXI"><img src="https://img.shields.io/badge/Deploy%20Lewat%20Bot%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"" /></a></p>
+<p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=amkxbm9ubHkvUHlyb0RhcmstVXNlckJvdCBtYWlu"><img src="https://img.shields.io/badge/Deploy%20Lewat%20Bot%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"" /></a></p>
 
 
 ## 🖇 Generating Pyrogram String Session
