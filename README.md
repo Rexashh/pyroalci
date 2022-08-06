@@ -31,7 +31,7 @@ Ketika anda sudah memasang userbot ini, berarti anda sudah siap dengan resikonya
 - Gabung Group [@poconguserbot](https://t.me/poconguserbot) untuk diskusi, pelaporan bug, dan bantuan tentang PYRODARK-USERBOT.
 
 ## ⚠️ Harap Dibaca
-- REPO ORIGINAL MASIH DI PRIVATE KALAU ANDA MAU DEPLOY REPO INI ANDA WAJIB PUNYA GIT_TOKEN DARI ADMIN KALIAN BISA MINTA DI [@PocongUserbot](https://t.me/poconguserbot)
+- REPO ORIGINAL MASIH DI PRIVATE KALAU ANDA MAU DEPLOY VIA BOT REPO INI, ANDA WAJIB PUNYA GIT TOKEN DARI ADMIN KALIAN BISA MINTA DI [@PocongUserbot](https://t.me/poconguserbot)
 
 
 ## 👨🏻‍💻 Credits
