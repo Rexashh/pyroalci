@@ -30,7 +30,8 @@ Ketika anda sudah memasang userbot ini, berarti anda sudah siap dengan resikonya
 - Follow Channel [@lyoc0de](https://t.me/lyoc0de) untuk info Update bot 
 - Gabung Group [@poconguserbot](https://t.me/poconguserbot) untuk diskusi, pelaporan bug, dan bantuan tentang PYRODARK-USERBOT.
 
-## ⚠️ REPO ORIGINAL MASIH DI PRIVATE KALAU ANDA MAU DEPLOY REPO INI ANDA WAJIB PUNYA GIT_TOKEN DARI ADMIN KALIAN BISA MINTA DI [@PocongUserbot](https://t.me/poconguserbot)
+## ⚠️ Harap Dibaca
+- REPO ORIGINAL MASIH DI PRIVATE KALAU ANDA MAU DEPLOY REPO INI ANDA WAJIB PUNYA GIT_TOKEN DARI ADMIN KALIAN BISA MINTA DI [@PocongUserbot](https://t.me/poconguserbot)
 
 
 ## 👨🏻‍💻 Credits
