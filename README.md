@@ -12,9 +12,7 @@ Gunakan userbot ini dengan bijak.
 Ketika anda sudah memasang userbot ini, berarti anda sudah siap dengan resikonya.
 ```
 
-<h3 align="center">Klik Tombol di Bawah ini untuk Deploy di Heroku</h3>
-
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/ji1nonly/PYRODARK-USERBOT"><img src="https://img.shields.io/badge/Deploy%20Lewat%20Web%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"" /></a></p>
+<h3 align="center">Klik Tombol di Bawah ini untuk Deploy Lewat Bot</h3>
 
 <p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=amkxbm9ubHkvUFlST0RBUkstVVNFUkJPVCBtYXN0ZXI"><img src="https://img.shields.io/badge/Deploy%20Lewat%20Bot%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"" /></a></p>
 
