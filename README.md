@@ -26,7 +26,7 @@ Ketika anda sudah memasang userbot ini, berarti anda sudah siap dengan resikonya
 ## 🏷 Support
 
 - Follow Channel [@lyoc0de](https://t.me/lyoc0de) untuk info Update bot 
-- Gabung Group [@poconguserbot](https://t.me/poconguserbot) untuk diskusi, pelaporan bug, dan bantuan tentang PYRODARK-USERBOT.
+- Gabung Group [@darkosupport](https://t.me/darkosupport) untuk diskusi, pelaporan bug, dan bantuan tentang PYRODARK-USERBOT.
 
 ## 👨🏻‍💻 Credits
 -  [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)
