@@ -28,10 +28,6 @@ Ketika anda sudah memasang userbot ini, berarti anda sudah siap dengan resikonya
 - Follow Channel [@lyoc0de](https://t.me/lyoc0de) untuk info Update bot 
 - Gabung Group [@poconguserbot](https://t.me/poconguserbot) untuk diskusi, pelaporan bug, dan bantuan tentang PYRODARK-USERBOT.
 
-## ⚠️ Harap Dibaca
-- REPO ORIGINAL MASIH DI PRIVATE KALAU ANDA MAU DEPLOY VIA BOT REPO INI, ANDA WAJIB PUNYA GIT TOKEN DARI ADMIN, KALIAN BISA MINTA DI [@PocongUserbot](https://t.me/poconguserbot)
-
-
 ## 👨🏻‍💻 Credits
 -  [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)
 -  [Risman](https://github.com/mrismanaziz) for [PyroMan-Userbot](https://github.com/mrismanaziz/PyroMan-Userbot)
