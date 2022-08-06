@@ -15,7 +15,6 @@ from uvloop import install
 from config import *
 from ProjectPyrodark import BOTLOG_CHATID, LOGGER, LOOP, bots
 from ProjectPyrodark.helpers.misc import git, heroku
-from ProjectPyrodark.modules import ALL_MODULES
 
 MSG_ON = """
 🔥 **PYRODARK-USERBOT Berhasil Di Aktifkan**
