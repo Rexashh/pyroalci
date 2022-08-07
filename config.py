@@ -5,7 +5,7 @@
 # PLease read the GNU Affero General Public License in
 # <https://www.github.com/mrismanaziz/PyroMan-Userbot/blob/main/LICENSE/>.
 #
-# t.me/poconguserbot & t.me/lyoc0de
+# t.me/darkosupport & t.me/lyoc0de
 
 from base64 import b64decode
 from distutils.util import strtobool
@@ -33,7 +33,7 @@ GIT_TOKEN = getenv(
         "utf-8"
     ),
 )
-GROUP = getenv("GROUP", "poconguserbot")
+GROUP = getenv("GROUP", "darkosupport")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
 PMPERMIT_PIC = getenv("PMPERMIT_PIC", None)
