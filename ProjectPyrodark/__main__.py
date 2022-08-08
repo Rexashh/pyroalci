@@ -13,11 +13,11 @@ from pyrogram import idle
 from uvloop import install
 
 from config import *
-from ProjectPyrodark import BOTLOG_CHATID, LOGGER, LOOP, bots
-from ProjectPyrodark.helpers.misc import git, heroku
+from ProjectPyronath import BOTLOG_CHATID, LOGGER, LOOP, bots
+from ProjectPyronath.helpers.misc import git, heroku
 
 MSG_ON = """
-🔥 **PYRODARK-USERBOT Berhasil Di Aktifkan**
+🤖 **PYRONATH-USERBOT Berhasil Di Aktifkan**
 ━━
 ➠ **Userbot Version -** `{}`
 ➠ **Ketik** `{}alive` **untuk mengecek Bot**
@@ -30,8 +30,8 @@ async def main():
         try:
             await bot.start()
             bot.me = await bot.get_me()
-            await bot.join_chat("lyoc0de")
-            await bot.join_chat("darkosupport")
+            await bot.join_chat("nathaellxx")
+            await bot.join_chat("nathsupport")
             await bot.send_message(BOTLOG_CHATID, MSG_ON.format(BOT_VER, CMD_HANDLER))
         except Exception as a:
             LOGGER("main").warning(a)
@@ -39,12 +39,12 @@ async def main():
 
 
 if __name__ == "__main__":
-    LOGGER("ProjectPyrodark").info("Starting PYRODARK-USERBOT")
-    LOGGER("ProjectPyrodark").info(f"Total Clients = {len(bots)} Users")
+    LOGGER("ProjectPyronath").info("Starting PYRONATH-USERBOT")
+    LOGGER("ProjectPyronath").info(f"Total Clients = {len(bots)} Users")
     install()
     git()
     heroku()
-    LOGGER("ProjectPyrodark").info(
-        f"PYRODARK-USERBOT v{BOT_VER} [🔥 BERHASIL DIAKTIFKAN! 🔥]"
+    LOGGER("ProjectPyronath").info(
+        f"PYRONATH-USERBOT v{BOT_VER} [🔥 BERHASIL DIAKTIFKAN! 🔥]"
     )
     LOOP.run_until_complete(main())
