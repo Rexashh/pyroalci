@@ -40,7 +40,7 @@ PMPERMIT_PIC = getenv("PMPERMIT_PIC", None)
 PM_AUTO_BAN = strtobool(getenv("PM_AUTO_BAN", "True"))
 REPO_URL = getenv(
     "REPO_URL",
-    b64decode("aHR0cHM6Ly9naXRodWIuY29tL2ppMW5vbmx5L1BZUk9EQVJLLVVTRVJCT1Q=").decode(
+    b64decode("aHR0cHM6Ly9naXRodWIuY29tL2ppMW5vbmx5L1B5cm9EYXJrLVVzZXJCb3Q=").decode(
         "utf-8"
     ),
 )
