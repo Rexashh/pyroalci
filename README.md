@@ -1,7 +1,7 @@
 
-# PYRODARK-USERBOT Telegram
+#  ♞ Pyronath-Userbot ♞
 
-PYRODARK-USERBOT adalah userbot Telegram modular yang berjalan di Python3 dengan Library Pyrogram.
+Pyronath-Userbot adalah userbot Telegram modular yang berjalan di Python3 dengan Library Pyrogram.
 
 ## ⚠️ Disclaimer
 
@@ -25,14 +25,15 @@ Ketika anda sudah memasang userbot ini, berarti anda sudah siap dengan resikonya
 
 ## 🏷 Support
 
-- Follow Channel [@lyoc0de](https://t.me/lyoc0de) untuk info Update bot 
-- Gabung Group [@darkosupport](https://t.me/darkosupport) untuk diskusi, pelaporan bug, dan bantuan tentang PYRODARK-USERBOT.
+- Follow Channel [@nathaellxx](https://t.me/nathaellxx) untuk info Update bot 
+- Gabung Group [@nathsupport](https://t.me/nathsupport) untuk diskusi, pelaporan bug, dan bantuan tentang Pyronath-Userbot.
 
 ## 👨🏻‍💻 Credits
 -  [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)
 -  [Risman](https://github.com/mrismanaziz) for [PyroMan-Userbot](https://github.com/mrismanaziz/PyroMan-Userbot)
+-  [Nath](https:github.com/xiayow) for [Pyronath-Userbot](https://github.com/xiayow/Pyronath-Userbot) 
 
-And Special Thanks To [Everyone](https://github.com/ji1nonly/PYRODARK-USERBOT/graphs/contributors) Who Has Helped Make This Userbot Awesome!
+And Special Thanks To [Everyone](https://github.com/ji1nonly/Pyronath-Userbot/graphs/contributors) Who Has Helped Make This Userbot Awesome!
 
 ## 📑 License
-Licensed under [GNU General Public License v3.0](https://github.com/ji1nonly/PYRODARK-USERBOT/blob/Man-Userbot/LICENSE) All designs were created by [@ji1nonly](https://github.com/ji1nonly)
+Licensed under [GNU General Public License v3.0](https://github.com/ji1nonly/Pyronath-Userbot/blob/Man-Userbot/LICENSE) All designs were created by [@ji1nonly](https://github.com/ji1nonly)
