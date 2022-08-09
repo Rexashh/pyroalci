@@ -16,15 +16,15 @@ from dotenv import load_dotenv
 load_dotenv("config.env")
 
 
-ALIVE_EMOJI = getenv("ALIVE_EMOJI", "✾")
-ALIVE_LOGO = getenv("ALIVE_LOGO", "https://telegra.ph/file/48113dc7478f9384291a8.jpg")
+ALIVE_EMOJI = getenv("ALIVE_EMOJI", "♞")
+ALIVE_LOGO = getenv("ALIVE_LOGO", "https://telegra.ph/file/e65a8baf4c1ffdf66a50d.jpg")
 ALIVE_TEKS_CUSTOM = getenv("ALIVE_TEKS_CUSTOM", "Hey, I am alive.")
 API_HASH = getenv("API_HASH")
 API_ID = int(getenv("API_ID", ""))
 BOTLOG_CHATID = int(getenv("BOTLOG_CHATID") or 0)
 BOT_VER = "0.1.0@main"
 BRANCH = getenv("BRANCH", "main")
-CHANNEL = getenv("CHANNEL", "lyoc0de")
+CHANNEL = getenv("CHANNEL", "nathaellxx")
 CMD_HANDLER = getenv("CMD_HANDLER", ".")
 DB_URL = getenv("DATABASE_URL", "")
 GIT_TOKEN = getenv(
