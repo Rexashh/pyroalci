@@ -2,10 +2,10 @@
 # Credits: @mrismanaziz
 # Copyright (C) 2022 Pyro-ManUserbot
 #
-# This file is a part of < https://github.com/ji1nonly/PYRODARK-USERBOT/ >
+# This file is a part of < https://github.com/xiayow/NATH-USERBOT/ >
 # PLease read the GNU Affero General Public License in
-# <https://www.github.com/ji1nonly/PYRODARK-USERBOT/blob/main/LICENSE/>.
+# <https://www.github.com/xiayow/NATH-USERBOT/blob/main/LICENSE/>.
 #
-# t.me/poconguserbot & t.me/lyoc0de
+# t.me/nathsupport & t.me/nathaellxx
 
-python3 -m ProjectPyrodark
+python3 -m Projectpyronath
