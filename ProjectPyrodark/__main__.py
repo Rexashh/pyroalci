@@ -5,7 +5,7 @@
 # PLease read the GNU Affero General Public License in
 # <https://www.github.com/mrismanaziz/PyroMan-Userbot/blob/main/LICENSE/>.
 #
-# t.me/darkosupport & t.me/lyoc0de
+# t.me/nathsupport & t.me/nathaellxx
 
 import importlib
 
@@ -13,8 +13,8 @@ from pyrogram import idle
 from uvloop import install
 
 from config import *
-from ProjectPyronath import BOTLOG_CHATID, LOGGER, LOOP, bots
-from ProjectPyronath.helpers.misc import git, heroku
+from ProjectPyrodark import BOTLOG_CHATID, LOGGER, LOOP, bots
+from ProjectPyrodark.helpers.misc import git, heroku
 
 MSG_ON = """
 🤖 **PYRONATH-USERBOT Berhasil Di Aktifkan**
@@ -39,12 +39,12 @@ async def main():
 
 
 if __name__ == "__main__":
-    LOGGER("ProjectPyronath").info("Starting PYRONATH-USERBOT")
-    LOGGER("ProjectPyronath").info(f"Total Clients = {len(bots)} Users")
+    LOGGER("ProjectPyrodark").info("Starting PYRONATH-USERBOT")
+    LOGGER("ProjectPyrodark").info(f"Total Clients = {len(bots)} Users")
     install()
     git()
     heroku()
-    LOGGER("ProjectPyronath").info(
+    LOGGER("ProjectPyrodark").info(
         f"PYRONATH-USERBOT v{BOT_VER} [🔥 BERHASIL DIAKTIFKAN! 🔥]"
     )
     LOOP.run_until_complete(main())
