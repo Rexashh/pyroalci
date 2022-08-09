@@ -98,7 +98,7 @@ bot1 = (
         session_name=STRING_SESSION1,
         api_id=API_ID,
         api_hash=API_HASH,
-        plugins=dict(root="ProjectPyronath/modules"),
+        plugins=dict(root="ProjectPyrodark/modules"),
     )
     if STRING_SESSION1
     else None
@@ -109,7 +109,7 @@ bot2 = (
         session_name=STRING_SESSION2,
         api_id=API_ID,
         api_hash=API_HASH,
-        plugins=dict(root="ProjectPyronath/modules"),
+        plugins=dict(root="ProjectPyrodark/modules"),
     )
     if STRING_SESSION2
     else None
@@ -120,7 +120,7 @@ bot3 = (
         session_name=STRING_SESSION3,
         api_id=API_ID,
         api_hash=API_HASH,
-        plugins=dict(root="ProjectPyronath/modules"),
+        plugins=dict(root="ProjectPyrodark/modules"),
     )
     if STRING_SESSION3
     else None
