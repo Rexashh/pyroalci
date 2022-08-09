@@ -17,7 +17,7 @@ from git import Repo
 from git.exc import GitCommandError, InvalidGitRepositoryError
 
 from config import *
-from ProjectPyronath import LOGGER
+from ProjectPyrodark import LOGGER
 
 HAPP = None
 
@@ -68,9 +68,9 @@ def git():
         UPSTREAM_REPO = REPO_URL
     try:
         repo = Repo()
-        LOGGER("ProjectPyronath").info(f"Git Client Found")
+        LOGGER("ProjectPyrodark").info(f"Git Client Found")
     except GitCommandError:
-        LOGGER("ProjectPyronath").info(f"Invalid Git Command")
+        LOGGER("ProjectPyrodark").info(f"Invalid Git Command")
     except InvalidGitRepositoryError:
         repo = Repo.init()
         if "origin" in repo.remotes:
@@ -95,7 +95,7 @@ def git():
         except GitCommandError:
             repo.git.reset("--hard", "FETCH_HEAD")
         install_req("pip3 install --no-cache-dir -U -r requirements.txt")
-        LOGGER("ProjectPyronath").info("Fetched Latest Updates")
+        LOGGER("ProjectPyrodark").info("Fetched Latest Updates")
 
 
 def is_heroku():
@@ -109,8 +109,8 @@ def heroku():
             try:
                 Heroku = heroku3.from_key(HEROKU_API_KEY)
                 HAPP = Heroku.app(HEROKU_APP_NAME)
-                LOGGER("ProjectPyronath").info(f"Heroku App Configured")
+                LOGGER("ProjectPyrodark").info(f"Heroku App Configured")
             except BaseException:
-                LOGGER("ProjectPyronath").warning(
+                LOGGER("ProjectPyrodark").warning(
                     f"Pastikan HEROKU_API_KEY dan HEROKU_APP_NAME anda dikonfigurasi dengan benar di config vars heroku."
                 )
