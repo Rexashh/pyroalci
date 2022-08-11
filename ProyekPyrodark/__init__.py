@@ -5,7 +5,7 @@
 # PLease read the GNU Affero General Public License in
 # <https://www.github.com/mrismanaziz/PyroMan-Userbot/blob/main/LICENSE/>.
 #
-# t.me/nathsupport & t.me/nathaellxx
+# t.me/alxelsupport & t.me/soasiklo69
 
 import asyncio
 import logging
